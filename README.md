@@ -12,6 +12,7 @@ MotionParallax is a project that demonstrates the principles of motion parallax,
 To install MotionParallax, clone the repository and install any necessary dependencies:
 
 git clone https://github.com/EduardoRamonHernandez/MotionParallax.git
+
 cd MotionParallax # Install dependencies if needed
 
 # Usage
